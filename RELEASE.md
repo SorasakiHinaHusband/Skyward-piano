@@ -4,7 +4,7 @@ Image for the Xiaomi Pad 8 Pro on HyperOS 4 `OS4.0.6.0.XPYCNXM`.
 
 | Image | SHA-256 |
 | --- | --- |
-| `skyward-0.3.1-piano-OS4.0.6.0.XPYCNXM.img` | `d29a3da1b0c657464a0eac02e14c247dc7e88ddfbccff0f150b8384b97c35974` |
+| `skyward-0.3.1-piano-OS4.0.6.0.XPYCNXM.img` | `628c7715f274a3204f0ce54c231514c9f984b7bbda40f3283992e0ad28759f21` |
 
 Flash both recovery slots:
 

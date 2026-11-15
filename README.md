@@ -14,7 +14,7 @@ configuration is shipped here.
 Image: [**v0.3.1 release asset**](https://github.com/SorasakiHinaHusband/Skyward-piano/releases/download/v0.3.1/skyward-0.3.1-piano-OS4.0.6.0.XPYCNXM.img)
 
 ```text
-SHA-256: d29a3da1b0c657464a0eac02e14c247dc7e88ddfbccff0f150b8384b97c35974
+SHA-256: 628c7715f274a3204f0ce54c231514c9f984b7bbda40f3283992e0ad28759f21
 ```
 
 The image is a release asset rather than a committed file because it is
@@ -30,6 +30,7 @@ below.
 - Decryption works (`/data`, `/sdcard` mount; the UI shows `已解密`).
 - Wi-Fi associates and gets a DHCP address.
 - Battery icon and readings work.
+- The tablet has no vibration motor, so the settings page has no vibration section.
 
 ## Flashing
 
