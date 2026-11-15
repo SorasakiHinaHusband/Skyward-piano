@@ -108,7 +108,7 @@ only after the target slot has started.
   touch transform above is required. If left/right is reversed add
   `invert_x = true`; if up/down is reversed remove `invert_y`.
 - Changing orientation restarts the recovery to apply the new layout.
-- Haptics are not configured on this tablet.
+- The tablet has no vibration motor, so the settings page has no vibration section.
 - The stock recovery base must match `OS4.0.6.0.XPYCNXM` (or a compatible
   HyperOS 4 build); a different base may need a new `[stock]` block.
 

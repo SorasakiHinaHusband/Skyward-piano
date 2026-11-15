@@ -102,7 +102,7 @@ adb shell /system/bin/recovery vab-repair --force
 - 面板原生是竖屏，而 DRM 模式是横屏，所以必须用上面的触摸变换。如果左右反了，
   加 `invert_x = true`；如果上下反了，去掉 `invert_y`。
 - 切换屏幕方向会重启 recovery 来应用新布局。
-- 这台平板没有配置振动。
+- 平板没有振动模块，设置页不显示振动栏目。
 - 原厂 recovery 底包要匹配 `OS4.0.6.0.XPYCNXM`（或兼容的 HyperOS 4）；
   换底包可能需要新的 `[stock]` 配置。
 
